@@ -1,0 +1,8 @@
+Risk Name,Probability(%),Duration of project(years),Situation description,Activity Delay (Days),Total Slack Days,Direct Cost ($),Weekly overhead ($),penalties ($),Budget ($),Source
+CON-8 Historic change order growth,15.8,7,no injury,130,0,25000000,0,0,540876436,USACE CSRA Concept A Dec 2014 (Likely 70% over project = 15.8%/yr)
+EST-1 Insufficient or uncertain future funding,15.8,7,no injury,130,0,20000000,0,0,540876436,USACE CSRA Concept A Dec 2014 (Likely 70% over project = 15.8%/yr)
+PPM-4 Project execution,15.8,7,no injury,65,0,25000000,0,0,540876436,USACE CSRA Concept A Dec 2014 (Likely 70% over project = 15.8%/yr)
+CON-4 Poor construction quality or hidden defects,5.0,7,no injury,130,0,25000000,0,0,540876436,USACE CSRA Concept A Dec 2014 (Unlikely 30% over project = 5.0%/yr)
+PR-3 Acts of God - earthquake or severe weather,5.0,7,no injury,260,0,10000000,0,0,540876436,USACE CSRA Concept A Dec 2014 (Unlikely 30% over project = 5.0%/yr)
+CON-6 Vessel schedule disruptions,5.0,7,no injury,65,0,20000000,0,0,540876436,USACE CSRA Concept A Dec 2014 (Unlikely 30% over project = 5.0%/yr)
+TL-6 Port operations vs construction phasing,15.8,7,no injury,43,0,10000000,0,0,540876436,USACE CSRA Concept A Dec 2014 (Likely 70% over project = 15.8%/yr)
