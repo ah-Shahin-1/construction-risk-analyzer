@@ -4,7 +4,7 @@ A Python tool that reads a construction project's risk register from a CSV file,
 
 I built it as a second-year civil engineering student at McGill University, while learning Python, to understand how project managers and estimators actually quantify risk.
 
-![Risk matrix](images/risk_matrix.png)
+![Risk matrix](risk_matrix.png)
 
 ---
 
@@ -47,7 +47,7 @@ The example file `Montreal_building_Peel_RISKS.csv` is a realistic example proje
 | **P80 risk cost (contingency)** | **$1,242,848 (8.9% of budget)** |
 | P80 delay | 8.7 weeks (about 2 months): 26 months total instead of 24 |
 
-![Monte Carlo histogram](images/monte_carlo_cost.png)
+![Monte Carlo histogram](monte_carlo_cost.png)
 
 **What the histogram shows:** in almost half of the simulated projects, the contaminated soil doesn't happen and the risk cost is close to $0. In the other half, it costs around $1M. The expected value ($0.57M) sits in the gap and matches **neither** real outcome. That's exactly why a single average is a poor contingency, and why percentiles like P80 are used instead.
 
